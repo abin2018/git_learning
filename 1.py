@@ -11,3 +11,7 @@ class Phone(object):
 
     def resolution(self):
         return self.width * self.height
+
+"""
+Hello
+"""
